@@ -1,8 +1,8 @@
 # SQL-Project
 
 
-| Project Name  |  Second Header                                                                                                        |
-| ------------- |  -------------                                                                                                        |
+| Project Name  |                                            Description                                                                |
+| ------------- |                                           -------------                                                               |
 | Bike Shop     |  I am working on this project to demonstrate my understanding of SQL.                                                 |
 |               |  I downloaded this dataset and ER diagram from Kaggle and created my own database on pgAdmin.                         |
 |               |   After creating the tables and importing the data through CSV files, I thought of a variety of common questions      |
